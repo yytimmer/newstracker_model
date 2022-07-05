@@ -1,4 +1,4 @@
-# Code related to the research article "Automated monitoring of online news accuracy with change classification models"
+# Code associated with "Automated monitoring of online news accuracy with change classification models"
 
 In this repository, the code that was written in the context of the research article with title "Automated monitoring of online news accuracy with change classification models", submitted for review to Information Processing & Management, is shared.
 
@@ -8,6 +8,7 @@ More specifically, two folders can be found in this repository:
 A separate file is present for each newspaper (*VRTScraper.py*, *KnackScraper.py*, *HLNScraper.py*, *NieuwsbladScraper.py*, *MorgenScraper.py* and *StandaardScraper.py*).
 Moreover, a main file is present (*main.py*), taking as arguments (1) the newspaper for which you want to start the scraping procedure ('VRT', 'Knack', 'HLN', 'Nieuwsblad', 'Demorgen' and 'Standaard'), and (2) the filepath to the storage location of the chromedriver.exe file that is necessary to be able to use the Selenium package.
 Using these files, one is able to gather online news articles and their updates from the different newspapers and store them in an underlying relational database (as is described in the methodological section of the manuscript).
+
 Be aware of the fact that one should download the most recent Chromedriver [here](https://chromedriver.chromium.org/home) and install the Selenium package first before being able to execute the scripts.
 
 Finally, this folder also contains a schema-only backup of the PostgreSQL database in which the online news articles were stored (*newstrackerdb_backup.sql).
