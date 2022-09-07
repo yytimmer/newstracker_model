@@ -15,3 +15,7 @@ Finally, this folder also contains a schema-only backup of the PostgreSQL databa
 Be aware of the fact that the parameters (i.e., hostname, port number, database name, username and password) of the database should be filled in correctly in *main.py* for the program to be able to run correctly.
 
 * **Model building**: This folder contains a notebook for each classification model at hand (*objective_errors_model.ipynb*, *subjective_errors_model.ipynb* and *linguistic_errors_model.ipynb*), containing the different methodological steps as explained in the paper. Moreover, the same notebooks are also present in this folder in html format such that installation of Jupyter notebook is not necessary to have insight in the code.
+
+Moreover, this folder also contains a notebook that contains the code that processes the raw input data into the feature data that can be fed directly to the model (*compute_features.ipynb*).
+This notebook is superficially documented with comments throughout the code.
+For additional information on the features that are extracted, view the documentation that is delivered with the raw and model input data sets.
