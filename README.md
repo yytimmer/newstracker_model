@@ -23,3 +23,11 @@ This notebook is superficially documented with comments throughout the code.
 For additional information on the features that are extracted, view the documentation that is delivered with the raw and model input data sets.
 
 ## Data
+
+The raw news data (from which the features for the supervised models were calculated) and the calculated feature data themselves can be retrieved and downloaded from a dedicated [url](https://ddcmfs.ugent.be).
+If you want to access the dataset, you should log in to the platform using the following credentials:
+
+* **username**: news01
+* **password**: xisheif2ieth9ohphuujeebaek8xic7VaiwaiSh5
+
+Data sets are provided with the necessary documentation.
