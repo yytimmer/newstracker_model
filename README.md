@@ -24,10 +24,10 @@ For additional information on the features that are extracted, view the document
 
 ## Data
 
-The raw news data (from which the features for the supervised models were calculated) and the calculated feature data themselves can be retrieved and downloaded from a dedicated [url](https://ddcmfs.ugent.be).
+The raw news data (from which the features for the supervised models were calculated), the calculated feature data themselves and the associated documentation can be retrieved and downloaded from a dedicated [url](https://ddcmfs.ugent.be).
 If you want to access the dataset, you should log in to the platform using the following credentials:
 
 * **username**: news01
 * **password**: xisheif2ieth9ohphuujeebaek8xic7VaiwaiSh5
 
-Data sets are provided with the necessary documentation.
+Subsequently, you can download the data by clicking 'browse' and selecting the files that you want to download.
