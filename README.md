@@ -1,4 +1,6 @@
-# Code associated with "Automated monitoring of online news accuracy with change classification models"
+# Automated monitoring of online news accuracy with change classification models
+
+## Code
 
 In this repository, the code that was written in the context of the research article with title "Automated monitoring of online news accuracy with change classification models", submitted for review to Information Processing & Management, is shared.
 
@@ -19,3 +21,5 @@ Be aware of the fact that the parameters (i.e., hostname, port number, database 
 Moreover, this folder also contains a notebook that contains the code that processes the raw input data into the feature data that can be fed directly to the model (*compute_features.ipynb*).
 This notebook is superficially documented with comments throughout the code.
 For additional information on the features that are extracted, view the documentation that is delivered with the raw and model input data sets.
+
+## Data
