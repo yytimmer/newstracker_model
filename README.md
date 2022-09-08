@@ -20,7 +20,9 @@ Be aware of the fact that the parameters (i.e., hostname, port number, database 
 
 Moreover, this folder also contains a notebook that contains the code that processes the raw input data into the feature data that can be fed directly to the model (*compute_features.ipynb*).
 This notebook is superficially documented with comments throughout the code.
-For additional information on the features that are extracted, view the documentation that is delivered with the raw and model input data sets.
+
+Associated with the *compute_features.ipynb* notebook is the *data_processing_knowledge_input* folder, which contains files that are necessary in order to compute some of the features starting from the raw data.
+For additional information on the features that are extracted and the purpose of these files, view the documentation that is delivered with the raw and model input data sets and/or the scientific paper associated with this repository.
 
 ## Data
 
